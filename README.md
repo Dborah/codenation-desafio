@@ -44,11 +44,11 @@ OBS: a API espera um arquivo sendo enviado como multipart/form-data, como se fos
 
 O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode submeter quantas vezes achar necessário, mas a API não vai permitir mais de uma submissão por minuto.
 
-# OBS
+#### OBS
 Neste estágio da aceleração não solicitamos que você nos envie o código do programa que você criou, mas recomendamos que você guarde uma cópia pois o mesmo pode ser solicitado nas próximas fases do processo.
 
 
-##Resultado
+## Resultado
 <p align="center">
   <img src="https://github.com/Dborah/codenation-desafio/blob/master/img/resultado.png" alt="Resultado" />
 </p>
